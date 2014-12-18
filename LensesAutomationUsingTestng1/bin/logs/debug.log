@@ -1,0 +1,10 @@
+2014-06-18 12:39:48,145 [main] INFO  com.lenses.Tests.InSightTest - before testcase execution i m in the setup method
+2014-06-18 12:39:48,152 [main] INFO  com.lenses.Tests.InSightTest - Error in testcase null-->java.lang.NullPointerException
+2014-06-18 12:41:08,129 [main] INFO  com.lenses.Tests.InSightTest - before testcase execution i m in the setup method
+2014-06-18 12:41:08,135 [main] INFO  com.lenses.Tests.InSightTest - Error in testcase null-->java.lang.NullPointerException
+2014-06-18 12:48:40,952 [main] INFO  com.lenses.Tests.InSightTest - before testcase execution i m in the setup method
+2014-06-18 12:48:40,958 [main] INFO  com.lenses.Tests.InSightTest - Error in testcase null-->java.lang.NullPointerException
+2014-06-18 12:49:14,633 [main] INFO  com.lenses.Tests.InSightTest - before testcase execution i m in the setup method
+2014-06-18 12:49:14,639 [main] INFO  com.lenses.Tests.InSightTest - Error in testcase null-->java.lang.NullPointerException
+2014-06-18 12:51:07,958 [main] INFO  com.lenses.Tests.InSightTest - before testcase execution i m in the setup method
+2014-06-18 12:51:07,965 [main] INFO  com.lenses.Tests.InSightTest - Error in testcase null-->java.lang.NullPointerException
